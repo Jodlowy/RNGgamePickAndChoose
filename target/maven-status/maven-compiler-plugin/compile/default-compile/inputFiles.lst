@@ -1,0 +1,16 @@
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/SecondChance.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/ExtraLife.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/pools/GamePool.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/gameplay/GameController.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/gameservice/GameHost.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/gameplay/TheGame.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/GameOver.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/StandardPrize.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/Prize.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/mathmodel/GamePredictions.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/Player.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/prizes/PrizeType.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/pools/Pools.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/gameplay/GameSymulator.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/data/pools/PoolSettings.java
+/home/patryk/IdeaProjects/pkMiniGame/src/main/java/gameservice/InputHandler.java
